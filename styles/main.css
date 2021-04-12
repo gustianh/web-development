@@ -1,0 +1,10 @@
+.body {
+    margin: 0px;
+}
+.header{
+    height: 100%;
+    overflow: hidden;
+    background-color: aquamarine;
+    padding: 50px;
+    margin-bottom: 50px;
+}
