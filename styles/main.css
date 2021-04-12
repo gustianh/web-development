@@ -54,3 +54,14 @@
     font-family: LimeLight;
     src: url('../fonts/Limelight-Regular.ttf');
 }
+
+.icon-kelas{
+    width: 250px;
+    height: 250px;
+    background-color: cornflowerblue;
+    border-radius: 50%;
+}
+
+.parent {
+    margin-top: 50px;
+}
