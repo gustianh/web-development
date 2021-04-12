@@ -18,7 +18,7 @@
 .header .logo {
     font-size: 30px;
     color: chartreuse;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: LimeLight;
     float: left;
 }
 
@@ -46,4 +46,10 @@
 
 .header.nav li a:visited{
     color: blue;
+}
+
+/* install fonts */
+@font-face {
+    font-family: LimeLight;
+    src: url('../fonts/Limelight-Regular.ttf');
 }
