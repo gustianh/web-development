@@ -1,5 +1,5 @@
 .body {
-    margin: 0px;
+    margin: 0;
 }
 
 .container {
@@ -38,4 +38,10 @@
 
 .header .nav li a {
     color: azure;
+    text-decoration: none;
+}
+
+.header.nav li a:hover{
+    color:yellow;
+    text-decoration: underline;
 }
