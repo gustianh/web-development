@@ -15,12 +15,10 @@
     margin-bottom: 50px;
 }
 
-.container .logo {
-    color: floralwhite;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
 .header .logo {
     font-size: 30px;
+    color: chartreuse;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     float: left;
 }
 
@@ -44,4 +42,8 @@
 .header.nav li a:hover{
     color:yellow;
     text-decoration: underline;
+}
+
+.header.nav li a:visited{
+    color: blue;
 }
