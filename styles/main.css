@@ -10,16 +10,32 @@
 .header{
     height: 100%;
     overflow: hidden;
-    background-color: aquamarine;
+    background-color: darkslategrey;
     padding: 50px;
     margin-bottom: 50px;
 }
 
+.container .logo {
+    color: floralwhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .header .logo {
     font-size: 30px;
     float: left;
 }
 
-.header .navigation {
+.header .nav {
     float: right;
+    margin-top: 40px;
+}
+
+.header .nav li {
+    float: right;
+    margin-left: 20px;
+    font-size: 20px;
+    display: block;
+}
+
+.header .nav li a {
+    color: azure;
 }
