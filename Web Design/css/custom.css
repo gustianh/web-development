@@ -1,5 +1,6 @@
-.btn-primary{
+.btn-warning{
     background-color: #f90;
     border: 0px;
     font-weight: bold;
+    font-size: 16px;
 }
